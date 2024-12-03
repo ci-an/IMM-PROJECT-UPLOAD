@@ -1,2 +1,6 @@
-# Auto detect text files and perform LF normalization
+# Enforce LF line endings
 * text=auto
+
+# Unity-specific file types to always use binary
+*.unity binary
+*.meta binary
